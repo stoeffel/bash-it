@@ -21,7 +21,7 @@ export EDITOR="/usr/bin/mate -w"
 export GIT_EDITOR='/usr/bin/mate -w'
 
 # Set the path nginx
-export NGINX_PATH='/opt/nginx'
+export BOXEN_PATH='/opt/boxen'
 
 # Don't check mail when opening terminal.
 unset MAILCHECK
