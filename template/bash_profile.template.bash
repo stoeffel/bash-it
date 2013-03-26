@@ -41,3 +41,5 @@ export TODO="t"
 
 # Load Bash It
 source $BASH_IT/bash_it.sh
+# Load BOXEN
+source $BOXEN_PATH/env.sh
