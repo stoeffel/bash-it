@@ -17,8 +17,8 @@ export BASH_IT_THEME='bobby'
 export GIT_HOSTING='git@git.domain.com'
 
 # Set my editor and git editor
-export EDITOR="/usr/bin/mate -w"
-export GIT_EDITOR='/usr/bin/mate -w'
+export EDITOR="/opt/boxen/bin/subl -w"
+export GIT_EDITOR='/opt/boxen/bin/subl -w'
 
 # Set the path nginx
 export BOXEN_PATH='/opt/boxen'
